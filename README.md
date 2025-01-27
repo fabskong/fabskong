@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67908e8698c00f7117f7706a?variant=dark&roadmaps=data-analyst%2Cai-data-scientist)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67908e8698c00f7117f7706a?variant=dark)](https://roadmap.sh)
